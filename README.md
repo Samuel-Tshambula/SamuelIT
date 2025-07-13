@@ -9,7 +9,7 @@
 ## 👋 Qui suis-je ?
 
 Je m'appelle **Samuel Tshambula Kadiata**.  
-🎓 **Étudiant en Réseaux et Télécommunications**, je suis passionné par le développement web, l'administration système, l'administration réseau et configurationde quelques équipements réseau.  
+🎓 **Étudiant en Réseaux et Télécommunications**, je suis passionné par le développement web, l'administration système, l'administration réseau et configuration de quelques équipements réseau.  
 🎸 *Le code, comme une mélodie, suit un rythme où chaque ligne compte.*
 
 ---
