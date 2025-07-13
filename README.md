@@ -33,7 +33,7 @@ Je m'appelle **Samuel Tshambula Kadiata**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 Administration système
-- **Windows Server** (ADDS, DNS, DHCP, WDS, SDS, MailEnable, cible iSCSI)
+- **Windows Server** (ADDS, DNS, DHCP, WDS, SDS, MailEnable, cible iSCSI, RAID)
 - **Sauvegarde des données**
 - **Déploiement d'images système**
 
@@ -47,10 +47,10 @@ Je m'appelle **Samuel Tshambula Kadiata**.
 ## 🌟 Projets personnels phares en dev-web
 
 - 🎓 **WebcampusUPC**  
-  *Plateforme académique complète (frontend Angular)*
+  *Plateforme académique complète (fullStack) avec Angular et expressJS*
 
 - 💼 **Alvalm**  
-  *Mini-plateforme de microservices avec front personnalisé*
+  *Mini-plateforme de microservices (fullStack JS) avec React et expressJS*
 
 ---
 
